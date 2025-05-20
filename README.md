@@ -1,3 +1,4 @@
+
 # ✨ LinkedIn Post Generator
 
 This project is a **LinkedIn Post Generator** application that uses an LLM to generate posts based on a selected LinkedIn creator’s style, specific topic, and post length. This app is built using **Streamlit** and allows users to generate LinkedIn posts that align with the style of popular content creators.
@@ -14,7 +15,7 @@ This project is a **LinkedIn Post Generator** application that uses an LLM to ge
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Zeeshier/GenAI-Posts-Generator.git
+    git clone https://github.com/avinashverse/GenAI-Posts-Generator.git
     cd GenAI-Posts-Generator
     ```
 
